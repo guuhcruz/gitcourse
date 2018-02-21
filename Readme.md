@@ -1,7 +1,9 @@
 #Git Course
 
-Este é um repositório
+Este e um repositorio
 
-Edição do arquivo
+Edicao do arquivo
 
-Mais uma edição
+Mais uma edicao
+
+New message
